@@ -1,6 +1,6 @@
 # NewFocus Laser TLB-6700
 
-Jupyter notebook to operate remotely the Tunable Diode Laser TLB-6700 using python.
+Jupyter notebook (.ipynb) to operate remotely the Tunable Diode Laser TLB-6700 using python.
 
 **Observations:**
 
