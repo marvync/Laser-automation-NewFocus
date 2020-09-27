@@ -7,7 +7,9 @@ Jupyter notebook (.ipynb) to operate remotely the Tunable Diode Laser TLB-6700 u
 - NewFocus laser driver (.exe) has to be installed.
 - The code was tested to run on the [conda environment](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) attached (.yml).
 
-This script is a first version and some improvements need to be done! We can create a class called laser for example....
+This script is a first version and some improvements need to be done! 
+
+As an example, we can create a class called **lasers** and unify the control of all lasers that are coinnected in the intranet or internet.
 
 ## NewFocus TLB-6700
 
